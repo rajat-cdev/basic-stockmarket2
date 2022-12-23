@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/basic-stockmarket2/static/css/main.99d5d9a5.css",
+    "main.js": "/basic-stockmarket2/static/js/main.cc26b5f8.js",
+    "index.html": "/basic-stockmarket2/index.html",
+    "main.99d5d9a5.css.map": "/basic-stockmarket2/static/css/main.99d5d9a5.css.map",
+    "main.cc26b5f8.js.map": "/basic-stockmarket2/static/js/main.cc26b5f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99d5d9a5.css",
+    "static/js/main.cc26b5f8.js"
+  ]
+}
